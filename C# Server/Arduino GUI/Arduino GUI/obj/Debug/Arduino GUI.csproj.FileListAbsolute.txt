@@ -1,0 +1,40 @@
+D:\Programma\C#\New folder\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.exe.config
+D:\Programma\C#\New folder\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.exe
+D:\Programma\C#\New folder\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.pdb
+D:\Programma\C#\New folder\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.AssemblyReference.cache
+D:\Programma\C#\New folder\Arduino GUI\Arduino GUI\obj\Debug\Arduino_GUI.Form1.resources
+D:\Programma\C#\New folder\Arduino GUI\Arduino GUI\obj\Debug\Arduino_GUI.Properties.Resources.resources
+D:\Programma\C#\New folder\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.GenerateResource.cache
+D:\Programma\C#\New folder\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.CoreCompileInputs.cache
+D:\Programma\C#\New folder\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.exe
+D:\Programma\C#\New folder\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.pdb
+D:\Programma\C#\Worked 1st time WIFI\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.exe.config
+D:\Programma\C#\Worked 1st time WIFI\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.exe
+D:\Programma\C#\Worked 1st time WIFI\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.pdb
+D:\Programma\C#\Worked 1st time WIFI\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.AssemblyReference.cache
+D:\Programma\C#\Worked 1st time WIFI\Arduino GUI\Arduino GUI\obj\Debug\Arduino_GUI.Form1.resources
+D:\Programma\C#\Worked 1st time WIFI\Arduino GUI\Arduino GUI\obj\Debug\Arduino_GUI.Properties.Resources.resources
+D:\Programma\C#\Worked 1st time WIFI\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.GenerateResource.cache
+D:\Programma\C#\Worked 1st time WIFI\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.CoreCompileInputs.cache
+D:\Programma\C#\Worked 1st time WIFI\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.exe
+D:\Programma\C#\Worked 1st time WIFI\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.pdb
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy for USING\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.exe.config
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy for USING\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.exe
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy for USING\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.pdb
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy for USING\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.AssemblyReference.cache
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy for USING\Arduino GUI\Arduino GUI\obj\Debug\Arduino_GUI.Form1.resources
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy for USING\Arduino GUI\Arduino GUI\obj\Debug\Arduino_GUI.Properties.Resources.resources
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy for USING\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.GenerateResource.cache
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy for USING\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.CoreCompileInputs.cache
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy for USING\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.exe
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy for USING\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.pdb
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy using\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.exe.config
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy using\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.exe
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy using\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.pdb
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy using\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.AssemblyReference.cache
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy using\Arduino GUI\Arduino GUI\obj\Debug\Arduino_GUI.Form1.resources
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy using\Arduino GUI\Arduino GUI\obj\Debug\Arduino_GUI.Properties.Resources.resources
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy using\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.GenerateResource.cache
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy using\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.CoreCompileInputs.cache
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy using\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.exe
+D:\Programma\C#\ARDUINO C#\Worked 1st time WIFI - Copy using\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.pdb
